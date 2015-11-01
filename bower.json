@@ -1,0 +1,19 @@
+{
+  "name": "angular2-gulp-starting-pack",
+  "version": "0.0.0",
+  "authors": [
+    "kaadash <arturkudel@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
